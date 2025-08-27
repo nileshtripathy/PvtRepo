@@ -1,0 +1,16 @@
+p{
+    background-color: aqua;
+    height: 6vh;
+    width: 9vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+h1{
+    color: violet;
+    margin: 12px;
+    padding: 13px;
+    justify-content: space-between;
+    align-items: center;
+}
